@@ -1,4 +1,4 @@
-# speechRecognition
+Speech Recognition
 Instructions to run:
 
 1. navigate to desired folder to save the project into and run the command 'git clone https://github.com/vshelnutt/speechRecognition.git'
